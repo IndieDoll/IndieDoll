@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emily Byrd
+- 👀 I’m interested in learning to code, playing video games and riding horses!
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I've been working in tech for nearly two years as a Data Center Operator!
